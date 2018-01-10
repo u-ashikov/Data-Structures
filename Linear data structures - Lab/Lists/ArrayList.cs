@@ -60,12 +60,7 @@ public class ArrayList<T>
 
     public T RemoveAt(int index)
     {
-        if (index < 0 || index >= this.count)
-        {
-            throw new ArgumentOutOfRangeException();
-        }
-
-        var removedElement = this.elements[index];
+        var removedElement = this[index];
 
         this.MoveElementsToLeft(index);
 
@@ -81,9 +76,8 @@ public class ArrayList<T>
 
     private void Resize()
     {
-        var oldArray = this.elements;
         var newArray = new T[this.count * 2];
-        oldArray.CopyTo(newArray, 0);
+        this.elements.CopyTo(newArray, 0);
         this.elements = newArray;
     }
 
