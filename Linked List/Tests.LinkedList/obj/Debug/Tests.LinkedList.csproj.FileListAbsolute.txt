@@ -1,0 +1,10 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\bin\Debug\Tests.LinkedList.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\bin\Debug\Tests.LinkedList.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\bin\Debug\LinkedList.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.pdb
