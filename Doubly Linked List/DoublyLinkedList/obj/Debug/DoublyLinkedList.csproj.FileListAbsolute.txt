@@ -1,0 +1,6 @@
+C:\Users\uashi\Desktop\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\uashi\Desktop\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\uashi\Desktop\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\uashi\Desktop\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
+C:\Users\uashi\Desktop\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
