@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.pdb

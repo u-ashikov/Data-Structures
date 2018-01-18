@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\LinkedQueueStructure\obj\Debug\LinkedQueueStructure.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\LinkedQueueStructure\obj\Debug\LinkedQueueStructure.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\LinkedQueueStructure\bin\Debug\LinkedQueueStructure.exe.config
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\LinkedQueueStructure\bin\Debug\LinkedQueueStructure.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\LinkedQueueStructure\bin\Debug\LinkedQueueStructure.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\LinkedQueueStructure\obj\Debug\LinkedQueueStructure.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\LinkedQueueStructure\obj\Debug\LinkedQueueStructure.pdb

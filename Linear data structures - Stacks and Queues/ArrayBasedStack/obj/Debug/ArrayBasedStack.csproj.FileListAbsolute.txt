@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe.config
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ArrayBasedStack\bin\Debug\ArrayBasedStack.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ArrayBasedStack\obj\Debug\ArrayBasedStack.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ArrayBasedStack\obj\Debug\ArrayBasedStack.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ArrayBasedStack\obj\Debug\ArrayBasedStack.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\ArrayBasedStack\obj\Debug\ArrayBasedStack.pdb

@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\bin\Debug\netcoreapp2.0\CalculateSequence.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\bin\Debug\netcoreapp2.0\CalculateSequence.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\bin\Debug\netcoreapp2.0\CalculateSequence.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\bin\Debug\netcoreapp2.0\CalculateSequence.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\bin\Debug\netcoreapp2.0\CalculateSequence.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\obj\Debug\netcoreapp2.0\CalculateSequence.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\obj\Debug\netcoreapp2.0\CalculateSequence.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\obj\Debug\netcoreapp2.0\CalculateSequence.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\obj\Debug\netcoreapp2.0\CalculateSequence.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\obj\Debug\netcoreapp2.0\CalculateSequence.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Stacks and Queues\CalculateSequence\obj\Debug\netcoreapp2.0\CalculateSequence.pdb
