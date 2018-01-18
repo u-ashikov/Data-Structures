@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\ReversedListDataStructure\bin\Debug\ReversedListDataStructure.exe.config
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\ReversedListDataStructure\bin\Debug\ReversedListDataStructure.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\ReversedListDataStructure\bin\Debug\ReversedListDataStructure.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\ReversedListDataStructure\obj\Debug\ReversedListDataStructure.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\ReversedListDataStructure\obj\Debug\ReversedListDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\ReversedListDataStructure\obj\Debug\ReversedListDataStructure.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\ReversedListDataStructure\obj\Debug\ReversedListDataStructure.pdb

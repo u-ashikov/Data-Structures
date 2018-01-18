@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\bin\Debug\netcoreapp2.0\DataStructureReversedList.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\bin\Debug\netcoreapp2.0\DataStructureReversedList.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\bin\Debug\netcoreapp2.0\DataStructureReversedList.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\bin\Debug\netcoreapp2.0\DataStructureReversedList.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\bin\Debug\netcoreapp2.0\DataStructureReversedList.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\obj\Debug\netcoreapp2.0\DataStructureReversedList.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\obj\Debug\netcoreapp2.0\DataStructureReversedList.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\obj\Debug\netcoreapp2.0\DataStructureReversedList.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\obj\Debug\netcoreapp2.0\DataStructureReversedList.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\obj\Debug\netcoreapp2.0\DataStructureReversedList.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DataStructureReversedList\obj\Debug\netcoreapp2.0\DataStructureReversedList.pdb

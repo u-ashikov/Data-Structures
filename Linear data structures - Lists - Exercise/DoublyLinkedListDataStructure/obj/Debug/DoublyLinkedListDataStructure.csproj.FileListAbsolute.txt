@@ -1,0 +1,2 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DoublyLinkedListDataStructure\obj\Debug\DoublyLinkedListDataStructure.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\DoublyLinkedListDataStructure\obj\Debug\DoublyLinkedListDataStructure.csproj.CoreCompileInputs.cache

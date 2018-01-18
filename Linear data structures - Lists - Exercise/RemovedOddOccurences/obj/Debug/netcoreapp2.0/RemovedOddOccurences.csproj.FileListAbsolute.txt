@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\bin\Debug\netcoreapp2.0\RemovedOddOccurences.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\bin\Debug\netcoreapp2.0\RemovedOddOccurences.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\bin\Debug\netcoreapp2.0\RemovedOddOccurences.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\bin\Debug\netcoreapp2.0\RemovedOddOccurences.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\bin\Debug\netcoreapp2.0\RemovedOddOccurences.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\obj\Debug\netcoreapp2.0\RemovedOddOccurences.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\obj\Debug\netcoreapp2.0\RemovedOddOccurences.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\obj\Debug\netcoreapp2.0\RemovedOddOccurences.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\obj\Debug\netcoreapp2.0\RemovedOddOccurences.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\obj\Debug\netcoreapp2.0\RemovedOddOccurences.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\RemovedOddOccurences\obj\Debug\netcoreapp2.0\RemovedOddOccurences.pdb

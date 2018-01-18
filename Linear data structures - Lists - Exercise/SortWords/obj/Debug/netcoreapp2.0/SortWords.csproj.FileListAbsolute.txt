@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.pdb

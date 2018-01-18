@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\bin\Debug\netcoreapp2.0\LongestSubsequence.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\bin\Debug\netcoreapp2.0\LongestSubsequence.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\bin\Debug\netcoreapp2.0\LongestSubsequence.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\bin\Debug\netcoreapp2.0\LongestSubsequence.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\bin\Debug\netcoreapp2.0\LongestSubsequence.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\obj\Debug\netcoreapp2.0\LongestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\obj\Debug\netcoreapp2.0\LongestSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\obj\Debug\netcoreapp2.0\LongestSubsequence.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\obj\Debug\netcoreapp2.0\LongestSubsequence.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\obj\Debug\netcoreapp2.0\LongestSubsequence.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\LongestSubsequence\obj\Debug\netcoreapp2.0\LongestSubsequence.pdb

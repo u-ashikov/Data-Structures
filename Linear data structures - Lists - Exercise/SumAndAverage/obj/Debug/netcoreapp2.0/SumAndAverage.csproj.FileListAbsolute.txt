@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.pdb

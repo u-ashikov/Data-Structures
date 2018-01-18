@@ -1,0 +1,11 @@
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\bin\Debug\netcoreapp2.0\CountOfOccurences.deps.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\bin\Debug\netcoreapp2.0\CountOfOccurences.runtimeconfig.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\bin\Debug\netcoreapp2.0\CountOfOccurences.runtimeconfig.dev.json
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\bin\Debug\netcoreapp2.0\CountOfOccurences.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\bin\Debug\netcoreapp2.0\CountOfOccurences.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\obj\Debug\netcoreapp2.0\CountOfOccurences.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\obj\Debug\netcoreapp2.0\CountOfOccurences.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\obj\Debug\netcoreapp2.0\CountOfOccurences.AssemblyInfoInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\obj\Debug\netcoreapp2.0\CountOfOccurences.AssemblyInfo.cs
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\obj\Debug\netcoreapp2.0\CountOfOccurences.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Linear data structures - Lists - Exercise\CountOfOccurences\obj\Debug\netcoreapp2.0\CountOfOccurences.pdb
