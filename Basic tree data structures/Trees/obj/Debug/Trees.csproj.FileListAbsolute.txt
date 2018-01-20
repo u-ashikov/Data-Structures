@@ -1,0 +1,7 @@
+C:\Users\uashi\Desktop\Basic tree data structures\Trees\bin\Debug\Trees.exe.config
+C:\Users\uashi\Desktop\Basic tree data structures\Trees\bin\Debug\Trees.exe
+C:\Users\uashi\Desktop\Basic tree data structures\Trees\bin\Debug\Trees.pdb
+C:\Users\uashi\Desktop\Basic tree data structures\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\Basic tree data structures\Trees\obj\Debug\Trees.exe
+C:\Users\uashi\Desktop\Basic tree data structures\Trees\obj\Debug\Trees.pdb
+C:\Users\uashi\Desktop\Basic tree data structures\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
