@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\PrintTree\obj\Debug\PrintTree.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\PrintTree\obj\Debug\PrintTree.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\PrintTree\bin\Debug\PrintTree.exe.config
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\PrintTree\bin\Debug\PrintTree.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\PrintTree\bin\Debug\PrintTree.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\PrintTree\obj\Debug\PrintTree.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\PrintTree\obj\Debug\PrintTree.pdb

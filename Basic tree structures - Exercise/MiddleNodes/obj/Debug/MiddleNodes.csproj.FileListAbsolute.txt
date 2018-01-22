@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\MiddleNodes\bin\Debug\MiddleNodes.exe.config
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\MiddleNodes\bin\Debug\MiddleNodes.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\MiddleNodes\bin\Debug\MiddleNodes.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\MiddleNodes\obj\Debug\MiddleNodes.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\MiddleNodes\obj\Debug\MiddleNodes.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\MiddleNodes\obj\Debug\MiddleNodes.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\MiddleNodes\obj\Debug\MiddleNodes.pdb

@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LeafNodes\bin\Debug\LeafNodes.exe.config
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LeafNodes\bin\Debug\LeafNodes.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LeafNodes\bin\Debug\LeafNodes.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LeafNodes\obj\Debug\LeafNodes.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LeafNodes\obj\Debug\LeafNodes.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LeafNodes\obj\Debug\LeafNodes.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LeafNodes\obj\Debug\LeafNodes.csprojResolveAssemblyReference.cache

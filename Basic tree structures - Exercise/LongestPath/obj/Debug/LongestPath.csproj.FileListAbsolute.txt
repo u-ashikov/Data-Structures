@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LongestPath\bin\Debug\LongestPath.exe.config
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LongestPath\bin\Debug\LongestPath.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LongestPath\bin\Debug\LongestPath.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LongestPath\obj\Debug\LongestPath.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LongestPath\obj\Debug\LongestPath.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LongestPath\obj\Debug\LongestPath.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\LongestPath\obj\Debug\LongestPath.pdb

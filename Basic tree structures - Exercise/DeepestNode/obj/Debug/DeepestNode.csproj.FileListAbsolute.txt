@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\DeepestNode\bin\Debug\DeepestNode.exe.config
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\DeepestNode\bin\Debug\DeepestNode.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\DeepestNode\bin\Debug\DeepestNode.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\DeepestNode\obj\Debug\DeepestNode.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\DeepestNode\obj\Debug\DeepestNode.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\DeepestNode\obj\Debug\DeepestNode.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\DeepestNode\obj\Debug\DeepestNode.pdb

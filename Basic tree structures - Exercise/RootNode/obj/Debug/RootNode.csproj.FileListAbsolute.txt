@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\RootNode\bin\Debug\RootNode.exe.config
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\RootNode\bin\Debug\RootNode.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\RootNode\bin\Debug\RootNode.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\RootNode\obj\Debug\RootNode.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\RootNode\obj\Debug\RootNode.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\RootNode\obj\Debug\RootNode.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\RootNode\obj\Debug\RootNode.pdb

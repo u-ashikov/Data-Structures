@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\AllPathsWithGivenSum\bin\Debug\AllPathsWithGivenSum.exe.config
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\AllPathsWithGivenSum\bin\Debug\AllPathsWithGivenSum.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\AllPathsWithGivenSum\bin\Debug\AllPathsWithGivenSum.pdb
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\AllPathsWithGivenSum\obj\Debug\AllPathsWithGivenSum.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\AllPathsWithGivenSum\obj\Debug\AllPathsWithGivenSum.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\AllPathsWithGivenSum\obj\Debug\AllPathsWithGivenSum.exe
+C:\Users\uashi\source\repos\Basic tree structures - Exercise\AllPathsWithGivenSum\obj\Debug\AllPathsWithGivenSum.pdb
