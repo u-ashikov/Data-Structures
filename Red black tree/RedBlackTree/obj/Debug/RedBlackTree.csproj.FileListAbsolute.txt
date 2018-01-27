@@ -5,3 +5,10 @@ C:\Users\uashi\Desktop\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csprojRe
 C:\Users\uashi\Desktop\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
 C:\Users\uashi\Desktop\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.exe
 C:\Users\uashi\Desktop\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree\RedBlackTree\bin\Debug\RedBlackTree.exe.config
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree\RedBlackTree\bin\Debug\RedBlackTree.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree\RedBlackTree\bin\Debug\RedBlackTree.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree\RedBlackTree\obj\Debug\RedBlackTree.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree\RedBlackTree\obj\Debug\RedBlackTree.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree\RedBlackTree\obj\Debug\RedBlackTree.pdb

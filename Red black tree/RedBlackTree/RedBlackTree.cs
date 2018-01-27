@@ -409,6 +409,11 @@ public class Launcher
 {
     public static void Main(string[] args)
     {
+        var rbt = new RedBlackTree<int>();
 
+        rbt.Insert(10);
+        rbt.Insert(20);
+        rbt.Insert(30);
+        rbt.Insert(15);
     }
 }

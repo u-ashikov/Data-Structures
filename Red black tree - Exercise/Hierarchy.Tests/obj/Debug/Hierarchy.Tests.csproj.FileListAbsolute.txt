@@ -1,0 +1,9 @@
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb
