@@ -1,0 +1,17 @@
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.dll
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.pdb
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.exe
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.pdb
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.dll
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.pdb
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.dll
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.pdb
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.exe
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.pdb
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.dll
+C:\Users\uashi\Desktop\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.pdb
