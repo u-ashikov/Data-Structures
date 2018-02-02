@@ -5,3 +5,10 @@ C:\Users\uashi\Desktop\AVLTree\AVLTree\obj\Debug\AVLTree.csprojResolveAssemblyRe
 C:\Users\uashi\Desktop\AVLTree\AVLTree\obj\Debug\AVLTree.csproj.CoreCompileInputs.cache
 C:\Users\uashi\Desktop\AVLTree\AVLTree\obj\Debug\AVLTree.exe
 C:\Users\uashi\Desktop\AVLTree\AVLTree\obj\Debug\AVLTree.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\AVLTree\AVLTree\bin\Debug\AVLTree.exe.config
+C:\Users\uashi\Documents\GitHub\Data-Structures\AVLTree\AVLTree\bin\Debug\AVLTree.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\AVLTree\AVLTree\bin\Debug\AVLTree.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\AVLTree\AVLTree\obj\Debug\AVLTree.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\AVLTree\AVLTree\obj\Debug\AVLTree.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\AVLTree\AVLTree\obj\Debug\AVLTree.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\AVLTree\AVLTree\obj\Debug\AVLTree.pdb

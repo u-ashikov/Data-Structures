@@ -7,3 +7,12 @@ C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.P
 C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
 C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.exe
 C:\Users\uashi\Desktop\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\bin\Debug\Hierarchy.Core.pdb
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\obj\Debug\Hierarchy.Core.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\obj\Debug\Hierarchy.Core.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\obj\Debug\Hierarchy.Core.exe
+C:\Users\uashi\Documents\GitHub\Data-Structures\Red black tree - Exercise\Hierarchy.Core\obj\Debug\Hierarchy.Core.pdb
