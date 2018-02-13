@@ -1,0 +1,7 @@
+C:\Users\uashi\Desktop\OrderedSet\OrderedSet\bin\Debug\OrderedSet.exe.config
+C:\Users\uashi\Desktop\OrderedSet\OrderedSet\bin\Debug\OrderedSet.exe
+C:\Users\uashi\Desktop\OrderedSet\OrderedSet\bin\Debug\OrderedSet.pdb
+C:\Users\uashi\Desktop\OrderedSet\OrderedSet\obj\Debug\OrderedSet.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Desktop\OrderedSet\OrderedSet\obj\Debug\OrderedSet.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\OrderedSet\OrderedSet\obj\Debug\OrderedSet.exe
+C:\Users\uashi\Desktop\OrderedSet\OrderedSet\obj\Debug\OrderedSet.pdb
