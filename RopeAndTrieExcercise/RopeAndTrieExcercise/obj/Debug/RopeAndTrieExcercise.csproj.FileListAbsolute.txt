@@ -1,0 +1,9 @@
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\bin\Debug\RopeAndTrieExcercise.exe.config
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\bin\Debug\RopeAndTrieExcercise.exe
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\bin\Debug\RopeAndTrieExcercise.pdb
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\obj\Debug\RopeAndTrieExcercise.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\obj\Debug\RopeAndTrieExcercise.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\obj\Debug\RopeAndTrieExcercise.exe
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\obj\Debug\RopeAndTrieExcercise.pdb
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\uashi\source\repos\RopeAndTrieExcercise\RopeAndTrieExcercise\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
