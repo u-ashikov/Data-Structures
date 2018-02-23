@@ -1,9 +1,0 @@
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\bin\Debug\PersonCollection.exe.config
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\bin\Debug\PersonCollection.exe
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\bin\Debug\PersonCollection.pdb
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\obj\Debug\PersonCollection.csproj.CoreCompileInputs.cache
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\obj\Debug\PersonCollection.exe
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\obj\Debug\PersonCollection.pdb
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\obj\Debug\PersonCollection.csprojResolveAssemblyReference.cache
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
-C:\Users\uashi\Desktop\PersonCollection\PersonCollection\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
