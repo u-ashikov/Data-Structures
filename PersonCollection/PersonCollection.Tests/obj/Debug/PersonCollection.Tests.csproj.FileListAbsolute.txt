@@ -1,0 +1,12 @@
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.Tests.dll
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.Tests.pdb
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.exe
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.pdb
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.exe.config
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.dll
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.pdb
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\uashi\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
