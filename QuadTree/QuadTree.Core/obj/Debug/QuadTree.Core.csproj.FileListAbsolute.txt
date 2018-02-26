@@ -1,0 +1,5 @@
+C:\Users\uashi\Desktop\QuadTree\QuadTree.Core\bin\Debug\QuadTree.Core.exe
+C:\Users\uashi\Desktop\QuadTree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+C:\Users\uashi\Desktop\QuadTree\QuadTree.Core\obj\Debug\QuadTree.Core.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\QuadTree\QuadTree.Core\obj\Debug\QuadTree.Core.exe
+C:\Users\uashi\Desktop\QuadTree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb
