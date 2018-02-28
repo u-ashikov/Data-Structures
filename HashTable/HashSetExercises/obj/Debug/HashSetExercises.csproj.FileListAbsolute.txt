@@ -1,9 +1,0 @@
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\bin\Debug\HashSetExercises.exe.config
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\bin\Debug\HashSetExercises.exe
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\bin\Debug\HashSetExercises.pdb
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\bin\Debug\HashTable.exe
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\bin\Debug\HashTable.pdb
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\obj\Debug\HashSetExercises.csprojResolveAssemblyReference.cache
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\obj\Debug\HashSetExercises.csproj.CoreCompileInputs.cache
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\obj\Debug\HashSetExercises.exe
-C:\Users\uashi\Documents\GitHub\Data-Structures\HashTable\HashSetExercises\obj\Debug\HashSetExercises.pdb
