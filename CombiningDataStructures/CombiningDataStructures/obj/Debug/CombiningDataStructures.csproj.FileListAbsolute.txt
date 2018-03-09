@@ -1,0 +1,9 @@
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\bin\Debug\CombiningDataStructures.exe.config
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\bin\Debug\CombiningDataStructures.exe
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\bin\Debug\CombiningDataStructures.pdb
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\obj\Debug\CombiningDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\obj\Debug\CombiningDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\obj\Debug\CombiningDataStructures.exe
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\obj\Debug\CombiningDataStructures.pdb
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\bin\Debug\PowerCollections.dll
+C:\Users\uashi\source\repos\CombiningDataStructures\CombiningDataStructures\bin\Debug\PowerCollections.xml
