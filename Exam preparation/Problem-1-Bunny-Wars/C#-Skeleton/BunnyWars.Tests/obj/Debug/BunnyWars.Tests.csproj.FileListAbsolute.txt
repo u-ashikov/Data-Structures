@@ -1,0 +1,11 @@
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Tests.dll
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Tests.pdb
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Core.exe
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Core.pdb
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Core.exe.config
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.dll
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.pdb
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\PowerCollections.dll
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\PowerCollections.xml

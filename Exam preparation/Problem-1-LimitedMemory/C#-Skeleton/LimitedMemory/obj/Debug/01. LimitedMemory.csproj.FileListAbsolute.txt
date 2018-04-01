@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory\obj\Debug\01. LimitedMemory.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory\bin\Debug\LimitedMemory.exe.config
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory\bin\Debug\LimitedMemory.exe
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory\bin\Debug\LimitedMemory.pdb
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory\obj\Debug\LimitedMemory.exe
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory\obj\Debug\LimitedMemory.pdb

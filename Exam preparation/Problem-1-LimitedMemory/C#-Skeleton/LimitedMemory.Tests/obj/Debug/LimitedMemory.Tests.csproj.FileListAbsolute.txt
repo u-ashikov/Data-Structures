@@ -1,0 +1,32 @@
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.dll
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.pdb
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\bin\Debug\LimitedMemory.exe
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\bin\Debug\LimitedMemory.pdb
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.dll
+c:\users\nasko\documents\visual studio 2015\Projects\Data-Structures-Retake-Exam-22-May-2016\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\LimitedMemory\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.dll
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\LimitedMemory\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\LimitedMemory\LimitedMemory.Tests\bin\Debug\LimitedMemory.exe
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\LimitedMemory\LimitedMemory.Tests\bin\Debug\LimitedMemory.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\LimitedMemory\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\LimitedMemory\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.dll
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\LimitedMemory\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.dll
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.exe
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.dll
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.pdb
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.dll
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.Tests.pdb
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.exe
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.pdb
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\bin\Debug\LimitedMemory.exe.config
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.dll
+C:\Users\uashi\Desktop\Exam preparation\Problem-1-LimitedMemory\C#-Skeleton\LimitedMemory.Tests\obj\Debug\LimitedMemory.Tests.pdb

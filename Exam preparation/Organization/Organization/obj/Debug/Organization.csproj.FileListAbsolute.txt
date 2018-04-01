@@ -1,0 +1,9 @@
+C:\Users\uashi\Desktop\Organization\Organization\bin\Debug\Organization.exe.config
+C:\Users\uashi\Desktop\Organization\Organization\bin\Debug\Organization.exe
+C:\Users\uashi\Desktop\Organization\Organization\bin\Debug\Organization.pdb
+C:\Users\uashi\Desktop\Organization\Organization\bin\Debug\PowerCollections.dll
+C:\Users\uashi\Desktop\Organization\Organization\bin\Debug\PowerCollections.xml
+C:\Users\uashi\Desktop\Organization\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\Organization\Organization\obj\Debug\Organization.exe
+C:\Users\uashi\Desktop\Organization\Organization\obj\Debug\Organization.pdb
+C:\Users\uashi\Desktop\Organization\Organization\obj\Debug\Organization.csprojResolveAssemblyReference.cache

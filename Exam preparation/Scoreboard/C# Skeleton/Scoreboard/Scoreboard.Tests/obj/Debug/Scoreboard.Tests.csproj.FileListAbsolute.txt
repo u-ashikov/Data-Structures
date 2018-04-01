@@ -1,0 +1,12 @@
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Tests.dll
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Tests.pdb
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.exe
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.pdb
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.exe.config
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.dll
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.pdb
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\PowerCollections.dll
+C:\Users\uashi\Desktop\Exam preparation\Scoreboard\C# Skeleton\Scoreboard\Scoreboard.Tests\bin\Debug\PowerCollections.xml

@@ -1,0 +1,9 @@
+C:\Users\uashi\Desktop\Judge\SimpleJudge\bin\Debug\SimpleJudge.exe.config
+C:\Users\uashi\Desktop\Judge\SimpleJudge\bin\Debug\SimpleJudge.exe
+C:\Users\uashi\Desktop\Judge\SimpleJudge\bin\Debug\SimpleJudge.pdb
+C:\Users\uashi\Desktop\Judge\SimpleJudge\bin\Debug\PowerCollections.dll
+C:\Users\uashi\Desktop\Judge\SimpleJudge\bin\Debug\PowerCollections.xml
+C:\Users\uashi\Desktop\Judge\SimpleJudge\obj\Debug\SimpleJudge.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\Judge\SimpleJudge\obj\Debug\SimpleJudge.exe
+C:\Users\uashi\Desktop\Judge\SimpleJudge\obj\Debug\SimpleJudge.pdb
+C:\Users\uashi\Desktop\Judge\SimpleJudge\obj\Debug\SimpleJudge.csprojResolveAssemblyReference.cache
